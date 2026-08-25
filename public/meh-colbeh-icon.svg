@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Meh Colbeh Light Theme Icon</title>
+  <desc>Minimal cabin, pine tree, mountain and sun icon with a light background.</desc>
+
+  <!-- Light background -->
+  <rect width="512" height="512" rx="72" fill="#F7F5EF"/>
+
+  <!-- Sun -->
+  <path d="M333 112a104 104 0 0 1 104 104"
+        fill="none" stroke="#B8893C" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Mountain -->
+  <path d="M214 252l67-78 34 39 38-31 89 77"
+        fill="none" stroke="#123C35" stroke-width="10" stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Pine tree -->
+  <path d="M150 182v147"
+        fill="none" stroke="#123C35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M150 182l-18 22h36l-18-22z
+           M150 211l-26 30h52l-26-30z
+           M150 241l-34 29h68l-34-29z
+           M150 270l-43 28h86l-43-28z"
+        fill="none" stroke="#123C35" stroke-width="10" stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Cabin -->
+  <path d="M205 310l76-91 76 91"
+        fill="none" stroke="#123C35" stroke-width="11" stroke-linecap="round"
+        stroke-linejoin="round"/>
+  <path d="M226 310l55-66 55 66"
+        fill="none" stroke="#123C35" stroke-width="8" stroke-linecap="round"
+        stroke-linejoin="round"/>
+  <path d="M226 310v92h110v-92"
+        fill="none" stroke="#123C35" stroke-width="10"/>
+
+  <!-- Cabin details -->
+  <path d="M226 333h42M226 356h42M294 333h42M294 356h42"
+        fill="none" stroke="#123C35" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Door -->
+  <path d="M269 402v-58h26v58"
+        fill="none" stroke="#B8893C" stroke-width="8"/>
+  <circle cx="289" cy="373" r="3.5" fill="#B8893C"/>
+
+  <!-- Window -->
+  <rect x="274" y="292" width="25" height="25" rx="1"
+        fill="none" stroke="#B8893C" stroke-width="7"/>
+  <path d="M286.5 292v25M274 304.5h25"
+        stroke="#B8893C" stroke-width="5"/>
+
+  <!-- Ground -->
+  <path d="M91 410c48-25 100-26 151-10 49 16 100 15 179-4"
+        fill="none" stroke="#123C35" stroke-width="9" stroke-linecap="round"/>
+</svg>

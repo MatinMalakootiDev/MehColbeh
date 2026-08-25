@@ -184,4 +184,16 @@
   .container {
     @apply max-w-[120rem] mx-auto flex flex-col gap-6;
   }
+
+  .hamburger-icon {
+    @apply w-7 h-7 text-brand-500 transition-all duration-300 hover:text-brand-200;
+  }
+
+  .icon {
+    @apply w-6.5 h-6.5 text-neutral-400 transition-all duration-300;
+  }
+
+  .navlink {
+    @apply flex items-center gap-5 px-10 py-4 text-[1.2rem] font-medium rounded-md transition-all duration-300;
+  }
 }
